@@ -1,16 +1,14 @@
+# The codebase can  be found in the master branch of the repository.
 # whatsapp_clone_assignment
 
-A new Flutter project.
+A whatsapp ui clone that contains the main chat list screen and the individual chat screen interface.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Created the app using flutter and dart and the mock data was  taken from  the internet.
+Responsive Layout was used so that the app is able to run on various screen sizes such as phone and web.
+Constant files were created that contains global info used throughout the app.
+Various custom widgets were created separately so that they can be used again over the codebase and thus reduces redundancy.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
